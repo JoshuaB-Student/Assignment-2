@@ -1,2 +1,2 @@
 # Team-Pythonic
-# This repository will contain Assignments 2, 3, and 4 for HIT137 - Software Now.
+# This repository will contain Assignment 2 for HIT137 - Software Now.
